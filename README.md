@@ -1,4 +1,5 @@
-# python-2
+# python-2-dx
+
 
 Narzędzie do zarządzania ofertami Allegro przez REST API. 
 
